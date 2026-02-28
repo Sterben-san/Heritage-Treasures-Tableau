@@ -2,15 +2,15 @@
 
 LINKS :
 
-Dashboard-1 : https://public.tableau.com/views/dashboard1_17716219088170/UNESCOWorldHeritageSiteOverview?:language=en
+Dashboard-1 : https://public.tableau.com/app/profile/anirudh.saketh/viz/Dashboard1_17722843531200/UNESCOWorldHeritageSiteOverview
 
-Dashboard-2 : https://public.tableau.com/views/dashboard2_17716220051490/UNESCODangerSitesOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Dashboard-2 : https://public.tableau.com/app/profile/anirudh.saketh/viz/Dashboard2_17722844300010/UNESCODangerSitesOverview
 
-Story : https://public.tableau.com/views/story2_17717621452180/UNESCO?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Story : https://public.tableau.com/app/profile/anirudh.saketh/viz/Story2_17722845263330/UNESCO
 
 Dataset Link : https://www.kaggle.com/datasets/ujwalkandi/unesco-world-heritage-sites/data?select=whc-sites2019.csv
 
-Github Repository Link : https://github.com/VasthaviSreya-Thumu/Heritage-Treasures
+Github Repository Link : https://github.com/Sterben-san/Heritage-Treasures
 
 Youtube Repository Link : https://youtu.be/gnp3Rs3bfrM
 
